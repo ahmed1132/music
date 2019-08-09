@@ -1,0 +1,6 @@
+owner=607346731956436992
+prefix=!
+game=By Ahmed star | !play
+stayinchannel=true
+songinstatus=false
+token=NjA5NDcyNTc1Mjc3MzY3Mzc4.XU3NmA.QmetBxa0ARbx8ZEPw57j8RIRRnI
